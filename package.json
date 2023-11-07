@@ -1,0 +1,30 @@
+{
+  "name": "openbim-components-node",
+  "version": "1.0.0",
+  "description": "A Node.js implementation of the IFC.js Library (currently rebranded as Open BIM Components).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boydhont/openbim-components-node.git"
+  },
+  "keywords": [
+    "openbim",
+    "components",
+    "open",
+    "bim",
+    "ifc",
+    "node"
+  ],
+  "author": "Boy d'Hont",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/boydhont/openbim-components-node/issues"
+  },
+  "homepage": "https://github.com/boydhont/openbim-components-node#readme",
+  "dependencies": {
+    "three": "^0.158.0"
+  }
+}
