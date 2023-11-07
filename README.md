@@ -1,5 +1,5 @@
 # openbim-components-node
-<a href="https://www.npmjs.com/package/openbim-components-node">npm package</a>
+[![NPM Package][npm]][npm-url]
 
 ## What is this?
 openbim-components-node is a Node.js implementation of the IFC.js library (currently rebranded as Open BIM Components).
