@@ -1,6 +1,6 @@
 {
   "name": "openbim-components-node",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Node.js implementation of the IFC.js Library (currently rebranded as Open BIM Components).",
   "main": "index.js",
   "scripts": {
